@@ -3,4 +3,39 @@
     margin-bottom: 1%;
     padding: 0%;
     box-sizing: border-box;
+    border-color: yellow;
+
+}
+
+.main{
+    display: grid;
+    grid-column: auto;
+    border: burlywood;
+    justify-content: center;
+    align-self: baseline;
+    box-sizing: content-box;
+
+}
+
+.list1{
+    background-color: turquoise;
+    display: flex;
+    padding: 10px;
+    box-sizing: content-box;
+}
+
+.list2{
+    background-color: turquoise;
+    display: flex;
+    padding: 10px;
+}
+
+.list3{
+    background-color: turquoise;
+    display: flex;
+    display: 10px;
+}
+
+.sub-header{
+  
 }

@@ -4,17 +4,20 @@
     padding: 0;
     background-color: lightgray;
     font-family: 'Times New Roman', Times, serif;
+    border-radius: 5px;
+    border-color: black;
+    justify-self: flex-end;
     
 }
 
 .main{
     border: black;
-    display: flex;
+    display:flex;
     flex-direction: column;
     
 }
 
-.header{
+.main-header{
     display: flex;
 }
 
